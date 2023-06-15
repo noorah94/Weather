@@ -1,16 +1,10 @@
-# weather_task_t2
+# Weather applocation
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/noorah94/Weather/assets/100534197/c8f8167e-25ce-4920-9adc-0cd98ece9df2" width="200" height="400">
+<img src="https://github.com/noorah94/Weather/assets/100534197/ec25edfa-13ef-4a0b-8fef-2159b09029fd" width="200" height="400">
+<img src="https://github.com/noorah94/Weather/assets/100534197/15155865-020f-4a8f-b524-0bc160d00464" width="200" height="400">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
